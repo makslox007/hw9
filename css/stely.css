@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  margin-top: 10px;
+}
+
+.container {
+  max-width: 1500px;
+  margin: 100px auto 0;
+  position: relative;
+}
+
+.row {
+  width: 100%;
+  display: flex;
+  position: relative;
+}
+
+.box {
+  width: 100%;
+  height: 100px;
+  background-color: rgb(114, 65, 248);
+  margin-top: 20px;
+  padding: 5px;
+}
+
+.item {
+  width: 90px;
+  height: 90px;
+  border-radius: 5px;
+  background-color: blue;
+  margin: 2.5px;
+}
